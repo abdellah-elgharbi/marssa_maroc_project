@@ -62,7 +62,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.fasterxml.jackson.datatype</groupId>
-			<artifactId>jackson-datatype-hibernate6</artifactId> <!-- ou hibernate6 selon ta version -->
+			<artifactId>jackson-datatype-hibernate5</artifactId> <!-- ou hibernate6 selon ta version -->
 			<version>2.19.2</version>
 		</dependency>
 		<dependency>
